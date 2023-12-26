@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Karoll and I'm a Python Software Developer from Colombia</p>
+<p align="left">My name is Karoll and I'm a Backend Software Developer from Colombia</p>
 
 ###
 
