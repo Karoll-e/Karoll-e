@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ☕ and Docker 🐳<br>⚡ In my free time I like to paint and learn about art 🎨</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java ☕ and Docker 🐳<br>⚡ In my free time I like to paint and learn about art 🎨</p>
 
 ###
 
