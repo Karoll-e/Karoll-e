@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ###
 
-<p align="left">My name is Karoll and I'm a Backend Software Developer from Colombia</p>
+<p align="left">My name is Karoll and I'm a Software Developer student from Colombia <img src="https://cdn-icons-png.flaticon.com/128/1903/1903120.png" width="17"/></p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java ☕ and Docker 🐳<br>⚡ In my free time I like to paint and learn about art 🎨</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java ☕ and <img src="https://cdn-icons-png.flaticon.com/128/760/760457.png" width="14"/> React  <br>⚡ In my free time I like to paint and learn about art 🎨</p>
 
 ###
 
