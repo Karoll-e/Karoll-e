@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Karoll and I'm a Software Developer student from Colombia <img src="https://cdn-icons-png.flaticon.com/128/1903/1903120.png" width="17"/></p>
+<p align="left">My name is Karoll and I'm a Software Developer from Colombia <img src="https://cdn-icons-png.flaticon.com/128/1903/1903120.png" width="17"/></p>
 
 ###
 
